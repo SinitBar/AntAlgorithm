@@ -1,0 +1,39 @@
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.exe
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.deps.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.dev.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csprojAssemblyReference.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfoInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfo.cs
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.genruntimeconfig.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.exe
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.deps.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.dev.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csprojAssemblyReference.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfoInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfo.cs
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\2 часть\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.genruntimeconfig.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.exe
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.deps.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.runtimeconfig.dev.json
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\bin\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csprojAssemblyReference.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfoInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.AssemblyInfo.cs
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.dll
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\ООП\Курсовая\AntAlgorithm\AntAlgorithm\obj\Debug\netcoreapp3.1\AntAlgorithm.genruntimeconfig.cache
